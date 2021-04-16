@@ -1,2 +1,2 @@
 # Connect4
-Game
+Project game for SODV1202 (COOL) - Introduction to Object Oriented Programming! 
